@@ -1,0 +1,70 @@
+﻿{
+  "brand": {
+    "name": "Atlas",
+    "tagline": "Product Categories"
+  },
+  "navigation": [
+    { "label": "All Products", "href": "public.html" },
+    { "label": "Categories", "href": "categories.html" },
+    { "label": "Motherboards", "href": "motherboard.html" },
+    { "label": "Monitors", "href": "monitor.html" }
+  ],
+  "hero": {
+    "eyebrow": "Atlas Categories",
+    "title": "Build the base with the right category.",
+    "subtitle": "Focus on the two core pillars: motherboards and monitors.",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1400&q=80"
+  },
+  "title": "All Categories",
+  "categories": [
+    {
+      "title": "Motherboard",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=500&q=80",
+      "summary": "ATX and mATX boards built for stable daily performance.",
+      "specs": [
+        "Chipsets: B760 / H610",
+        "Memory: DDR5 up to 7200 MT/s",
+        "Storage: 2x M.2 Gen4 + 4x SATA",
+        "IO: USB-C, 2.5GbE, HDMI/DP"
+      ]
+    },
+    {
+      "title": "Monitor",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=500&q=80",
+      "summary": "Panels tuned for work and play with eye-comfort modes.",
+      "specs": [
+        "Size: 24-27 inch IPS",
+        "Refresh: up to 165Hz",
+        "Resolution: FHD to QHD",
+        "Ports: HDMI, DP, USB-C (select models)"
+      ]
+    }
+  ],
+  "highlight": {
+    "title": "Pick your build path",
+    "body": "Start with a stable motherboard, then choose a display that matches your workload."
+  },
+  "stats": [
+    { "value": "2", "label": "Categories" },
+    { "value": "18", "label": "Core SKUs" },
+    { "value": "24/7", "label": "Support" },
+    { "value": "2", "label": "Year Warranty" }
+  ],
+  "footer": {
+    "about": "Atlas categories help you build faster with confidence.",
+    "resources": [
+      { "label": "Company", "href": "company.html" },
+      { "label": "Support", "href": "support.html" },
+      { "label": "About Atlas", "href": "about-atlas.html" }
+    ],
+    "follow": [
+      { "label": "Facebook", "href": "#" },
+      { "label": "YouTube", "href": "#" }
+    ],
+    "legal": [
+      { "label": "Privacy Policy", "href": "privacy-policy.html" },
+      { "label": "Terms & Conditions", "href": "terms-conditions.html" }
+    ],
+    "note": "© 2026 Atlas. All Rights Reserved."
+  }
+}
