@@ -1,0 +1,26 @@
+﻿{
+  "hero": {
+    "eyebrow": "Atlas",
+    "slides": [
+      {
+        "title": "Performance essentials for every build",
+        "subtitle": "Atlas delivers dependable motherboards and displays for every build.",
+        "image": "assets/images/hero-01.jpg"
+      },
+      {
+        "title": "Clean layouts, stable platforms",
+        "subtitle": "Motherboards engineered for smooth performance.",
+        "image": "assets/images/hero-02.jpg"
+      },
+      {
+        "title": "Monitors built for long sessions",
+        "subtitle": "Crisp panels with comfortable viewing.",
+        "image": "assets/images/hero-03.jpg"
+      }
+    ],
+    "actions": [
+      { "label": "Browse categories", "href": "categories.html", "style": "primary" },
+      { "label": "View monitors", "href": "monitor.html", "style": "ghost" }
+    ]
+  }
+}

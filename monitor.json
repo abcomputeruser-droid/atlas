@@ -1,0 +1,142 @@
+﻿{
+  "brand": {
+    "name": "Atlas",
+    "tagline": "Monitors"
+  },
+  "tag": "Monitor",
+  "navigation": [
+    { "label": "All Products", "href": "public.html" },
+    { "label": "Categories", "href": "categories.html" },
+    { "label": "Motherboards", "href": "motherboard.html" },
+    { "label": "Monitors", "href": "monitor.html" }
+  ],
+  "hero": {
+    "eyebrow": "Atlas Monitors",
+    "title": "Displays that stay crisp all day.",
+    "subtitle": "Color-accurate panels with smooth refresh for work and play.",
+    "image": "https://abcomputer.com.bd/wp-content/uploads/2025/03/ifw-body-and-box.png",
+    "chips": [
+      { "value": "100Hz", "label": "Refresh" },
+      { "value": "Full HD", "label": "Resolution" },
+      { "value": "IPS/LED", "label": "Panel" }
+    ],
+    "badges": ["100Hz", "IPS", "Low Blue"]
+  },
+  "overview": {
+    "title": "Clarity that stays sharp.",
+    "body": "Atlas monitors balance color accuracy, refresh rate, and eye comfort to keep you productive all day.",
+    "stats": [
+      { "value": "21.5-22 in", "label": "Screen sizes" },
+      { "value": "100Hz", "label": "Smooth refresh" },
+      { "value": "FHD", "label": "Resolution" },
+      { "value": "IPS/VA", "label": "Panel mix" }
+    ],
+    "cards": [
+      { "title": "Eye comfort", "body": "Low blue light tuning and anti-glare coatings for long sessions." },
+      { "title": "Fast response", "body": "5ms response for clearer motion and smooth scrolling." },
+      { "title": "Simple setup", "body": "HDMI and VGA inputs with quick plug-and-play use." }
+    ]
+  },
+  "productsTitle": "Featured Monitors",
+  "products": [
+    {
+      "title": "ATLAS 22\" HD LED Monitor 16:10 Aspect Ratio, VGA & HDMI Input",
+      "subtitle": "22-inch, 16:10, HD panel",
+      "image": "https://abcomputer.com.bd/wp-content/uploads/2025/05/22-inch-box.png",
+      "price": "BDT 7,600",
+      "url": "atlas-22-hd-led-monitor-1610-aspect-ratio-vga-hdmi-input.html",
+      "features": [
+        "High Definition Display - 22-inch screen with 1680 x 1050 resolution and a 16:10 aspect ratio for clear and sharp visuals",
+        "Fast Response Time - 5ms response time for smooth performance, ideal for gaming and multimedia"
+      ]
+    },
+    {
+      "title": "ATLAS 19\" Full HD LED Monitor with HDMI & VGA Ports",
+      "subtitle": "19-inch, 16:10, Full HD",
+      "image": "https://abcomputer.com.bd/wp-content/uploads/2025/05/19-Inche-Box.png",
+      "price": "BDT 6,200",
+      "url": "atlas-19-full-hd-led-monitor-with-hdmi-vga-ports.html",
+      "features": [
+        "HD Resolution & Wide Screen - 19-inch display with 1440x900 resolution and a 16:10 aspect ratio for clear and immersive visuals",
+        "Fast Response Time - 5ms response time for smooth, blur-free visuals, ideal for fast-paced tasks and gaming"
+      ]
+    },
+    {
+      "title": "ATLAS 17 Inch Square LED Monitor HDMI & VGA Support",
+      "subtitle": "17-inch, 4:3, Square",
+      "image": "https://abcomputer.com.bd/wp-content/uploads/2025/05/17-Inche-Box.png",
+      "price": "BDT 5,500",
+      "url": "atlas-17-inch-square-led-monitor-hdmi-vga-anti-glare-5ms-response.html",
+      "features": [
+        "High-Definition Display - 17-inch screen with 1280x1024 HD resolution for sharp visuals",
+        "Fast Response Time - 5ms response time for smooth, blur-free visuals during fast-moving scenes"
+      ]
+    },
+    {
+      "title": "ATLAS ATS22VFB100 22 Inch Full HD 100Hz Monitor for Editors & Pros",
+      "subtitle": "22-inch, 100Hz, Pro Series",
+      "image": "https://abcomputer.com.bd/wp-content/uploads/2025/05/vfb-body-and-box.png",
+      "price": "BDT 10,500",
+      "url": "atlas-ats22vfb100-22-inch-full-hd-100hz-monitor-for-editors-pros.html",
+      "features": [
+        "Full HD Display - 22-inch screen with a 1920x1080 resolution for sharp, detailed visuals",
+        "100Hz Refresh Rate - Smooth motion and reduced blur, perfect for gaming and fast-moving content"
+      ]
+    },
+    {
+      "title": "ATLAS ATS22IFW100 Pro Series 21.5\" IPS 100Hz LED Monitor in White Crisp Visuals",
+      "subtitle": "21.5-inch, IPS, 100Hz",
+      "image": "https://abcomputer.com.bd/wp-content/uploads/2025/03/ifw-body-and-box.png",
+      "price": "BDT 11,500",
+      "url": "atlas-ats22ifw100-pro-series-21-5-ips-100hz-led-monitor-in-white-crisp-visuals.html",
+      "features": [
+        "Full HD 1920x1080 Resolution - Delivers sharp and detailed visuals for a clear viewing experience",
+        "100Hz Refresh Rate - Ensures smooth motion with reduced blur, ideal for gaming and fast-moving content"
+      ]
+    },
+    {
+      "title": "ATLAS ATS22VFW100 Gamer's Edition 21.5\" 100Hz Fast-Response Gaming LED Monitor",
+      "subtitle": "21.5-inch, 100Hz, Gaming",
+      "image": "https://abcomputer.com.bd/wp-content/uploads/2025/03/VFW-body-and-box.png",
+      "price": "BDT 10,500",
+      "url": "atlas-ats22vfw100-gamers-edition-21-5-100hz-fast-response-gaming-led-monitor.html",
+      "features": [
+        "Full HD 1920x1080 Resolution - Provides crisp, sharp visuals for an immersive viewing experience",
+        "100Hz Refresh Rate - Ensures smoother motion, ideal for gaming and fast-moving content"
+      ]
+    }
+  ],
+  "specs": {
+    "title": "Monitor comparison",
+    "headers": [
+      "Model",
+      "Type",
+      "Price"
+    ],
+    "rows": [
+      ["ATLAS 22\" HD LED", "16:10", "BDT 7,600"],
+      ["ATLAS 19\" Full HD", "16:10", "BDT 6,200"],
+      ["ATLAS 17\" Square", "4:3", "BDT 5,500"],
+      ["ATS22VFB100", "100Hz", "BDT 10,500"],
+      ["ATS22IFW100", "IPS 100Hz", "BDT 11,500"],
+      ["ATS22VFW100", "Gaming 100Hz", "BDT 10,500"]
+    ]
+  },
+  "footer": {
+    "about": "Atlas monitors keep your setup sharp and comfortable.",
+    "resources": [
+      { "label": "Company", "href": "company.html" },
+      { "label": "Support", "href": "support.html" },
+      { "label": "About Atlas", "href": "about-atlas.html" }
+    ],
+    "follow": [
+      { "label": "Facebook", "href": "#" },
+      { "label": "YouTube", "href": "#" }
+    ],
+    "legal": [
+      { "label": "Privacy Policy", "href": "privacy-policy.html" },
+      { "label": "Terms & Conditions", "href": "terms-conditions.html" }
+    ],
+    "note": "(c) 2026 Atlas. All Rights Reserved."
+  }
+}
